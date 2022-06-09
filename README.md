@@ -1,9 +1,10 @@
 # Street Art Archives
-![](/public/imgs/tiger-logo.jpg)
+![](/public/imgs/home-logo.png)
 
 # Install
 
 `npm install`
+
 
 ---
 
