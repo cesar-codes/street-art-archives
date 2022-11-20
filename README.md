@@ -1,3 +1,6 @@
+# Street Art Archives
+![](/public/imgs/tiger-logo.jpg)
+
 # Install
 
 `npm install`
