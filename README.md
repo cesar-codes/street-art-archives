@@ -1,6 +1,6 @@
 # Street Art Archives
 
-
+Keeping Street Art and Graffiti alive
 
 ![](/public/imgs/home-logo.png)
 
