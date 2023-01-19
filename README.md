@@ -4,6 +4,18 @@ Keeping Street Art and Graffiti alive.
 
 ![](/public/imgs/home-logo.png)
 
+---
+
+# How It's Made:
+**Tech used:** 
+- HTML, CSS, JavaScript 
+- NodeJS, ExpressJS
+- Bootstrap, Cloudinary
+- MongoDB, Mongoose 
+- PassportJS
+
+---
+
 # Install
 
 `npm install`
