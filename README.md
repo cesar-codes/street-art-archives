@@ -11,7 +11,7 @@ Keeping Street Art and Graffiti alive.
 
 ---
 
-# Things to add
+# Get started
 
 - Create a `.env` file in config folder and add the following as `key = value`
   - PORT = 2121 (can be any port example: 3000)
