@@ -16,13 +16,6 @@ Keeping Street Art and Graffiti alive.
 
 ---
 
-# Install
-
-`npm install`
-
-
----
-
 # Get started
 
 - Create a `.env` file in config folder and add the following as `key = value`
@@ -31,6 +24,12 @@ Keeping Street Art and Graffiti alive.
   - CLOUD_NAME = `your cloudinary cloud name`
   - API_KEY = `your cloudinary api key`
   - API_SECRET = `your cloudinary api secret`
+
+---
+
+# Install
+
+`npm install`
 
 ---
 
